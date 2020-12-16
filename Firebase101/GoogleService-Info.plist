@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>790202366857-l4cvs0qpnucipbec058nlr4pn9okhkqa.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.790202366857-l4cvs0qpnucipbec058nlr4pn9okhkqa</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBOwUakJDxk4LexQI_3kZGgJroeDsGSe34</string>
+	<key>GCM_SENDER_ID</key>
+	<string>790202366857</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.RomanticDeveloper.Firebase101</string>
+	<key>PROJECT_ID</key>
+	<string>fir-101-f43aa</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-101-f43aa.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:790202366857:ios:0e742f9c9ebb5a13f4ff58</string>
+</dict>
+</plist>
